@@ -1,0 +1,11 @@
+Problem Statement:
+
+Program which accepts fileName from user and open that file using system call.
+
+Input:
+
+filename
+
+Output:
+
+Open the accepted file
