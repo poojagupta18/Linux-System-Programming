@@ -1,0 +1,8 @@
+#Problem Statement:
+	Write a program which accepts filename and one mode from user and that program check whether our process can access that file in accepted mode or not.
+
+#Input:
+	filename mode(read, write, execute)
+
+#Output:
+	Process can access accpeted file in accepted mode.

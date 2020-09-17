@@ -1,0 +1,8 @@
+#Problem Statement: 
+	Write a program which accept file name and mode from user and then open that file in specified mode.
+
+#Input:
+	filename read/write/readwrite
+
+#Output:
+	Open the file as per the input mode.
