@@ -49,8 +49,8 @@ int main(int argc, char* argv[])
                 printf("Unable to read file %s ...\n", dir->d_name);
 
             }
-		
-	    directory2 = opendir(d2)
+	
+	    
 
 	
 
