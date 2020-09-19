@@ -1,0 +1,6 @@
+#Problem Statement:
+	Write a program which accept two file names from user and copy content of an existing file into newly created file.
+#Input:
+	Existing file Name File To be create
+#Output:
+	Copy content of an existing file into newly created file.
