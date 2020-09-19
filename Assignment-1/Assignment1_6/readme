@@ -1,0 +1,8 @@
+#Problem Statement:
+	Program which accepts filename and read whole file.
+
+#Input:
+	filename 
+
+#Output:
+	Prints data from accepted file.
