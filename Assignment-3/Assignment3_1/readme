@@ -1,0 +1,6 @@
+#Problem Statement:
+	Write a program which accept directory name from user and prints all the file name of that directory.
+#Input:
+	Directory Name
+#Output:
+	List all the filenames of accepted directory name
