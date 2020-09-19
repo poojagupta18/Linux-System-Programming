@@ -1,0 +1,6 @@
+#Problem Statement:
+	Write a program which accept directory name from user and delete all the empty files.
+#Input:
+	Directory Name
+#Output:
+	Delete all the empty files
