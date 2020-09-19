@@ -1,0 +1,6 @@
+#Problem Statement:
+	Write a program which accept two Directory names and copy all files from one directory to another directory.
+#Input:
+	DirectoryName1 DirectoryName2
+#Output:
+	Copy all files of DirectoryName1 to DirectoryName2
