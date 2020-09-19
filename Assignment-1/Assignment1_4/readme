@@ -1,0 +1,8 @@
+#Problem Statement:
+	Program which accept filename from user and print information of that file.
+
+#Input:
+	filename
+
+#Output:
+	Prints information of a file.
