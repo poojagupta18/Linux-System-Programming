@@ -1,0 +1,8 @@
+#Problem Statement:
+	Program which accepts filename and number of bytes from user and read that number of bytes.
+
+#Input:
+	filename numberOfBytes
+
+#Output:
+	Prints data according to numberOfBytes from accepted file.
