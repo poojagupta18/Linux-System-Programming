@@ -1,0 +1,6 @@
+#Problem Statement:
+	Write a program which accept Directory name and file name from user and check whether that file is present in the directory or not.
+#Input:
+	DirectoryName FileName
+#Output:
+	Prints file is present in accepted directory or not
