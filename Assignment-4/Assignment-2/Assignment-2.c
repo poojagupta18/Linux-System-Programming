@@ -1,3 +1,5 @@
+//Program which accepts directory name from user and create directory of that file.
+
 #include<stdio.h>
 #include<sys/stat.h>
 
@@ -17,6 +19,7 @@ int main(int argc, char* argv[])
     if(dirStatus != -1)
     {
         printf("%s directory created successfully....\n", argv[1]);
+	closedir(dirStatus);
     }
     else
     {
