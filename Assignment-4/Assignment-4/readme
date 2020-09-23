@@ -1,0 +1,6 @@
+#Problem Statement:
+	Write a program which accept directory name from user and copy 10 bytes from all regular file into newly created file named demo.txt.
+#Input:
+	Directory Name
+#Output:
+	copy 10 bytes from all regular file in demo.txt
