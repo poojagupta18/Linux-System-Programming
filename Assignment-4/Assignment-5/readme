@@ -1,0 +1,6 @@
+#Problem Statement:
+	Write a program which accepts file name and position from the user and read 20 bytes from that position.
+#input:
+	filename, no. of bytes
+#Output:
+	Prints 20 bytes from accepted position
