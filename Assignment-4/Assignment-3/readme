@@ -3,4 +3,4 @@
 #Input:
 	1st file name, 2nd file name
 #Output:
-	Files are equal if content are same  
+	Print Files are equal if content are same  otherwise print not same
