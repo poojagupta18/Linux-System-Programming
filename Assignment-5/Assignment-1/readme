@@ -1,0 +1,6 @@
+#Problem Statement:
+	Write a program which writes structure in a file. Structure should contain information of Employee.
+#Input:
+	filename
+#Output:
+	Writes structure information in a file.	
