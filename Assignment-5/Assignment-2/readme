@@ -1,0 +1,6 @@
+#Problem Statement:
+	Write a program which accepts file name from user which contains information of Employees, we have to read all the contents of file.
+#Input:
+	filename
+#Output:
+	Prints information of employee file.	
