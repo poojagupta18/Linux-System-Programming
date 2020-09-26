@@ -1,0 +1,6 @@
+#Problem Statement:
+	Write a program which accepts Directory name from user and write information of all the regular file in and read from that file.
+#Input:
+	Directory
+#Output:
+	Prints data of file.	
