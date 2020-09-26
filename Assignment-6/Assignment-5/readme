@@ -1,0 +1,6 @@
+#Problem Statement:
+	Write a program which accepts filename and offset from user and remove all the data from that offset. 
+#Input:
+	filename, offset
+#Output:
+	Removes data from file.	
