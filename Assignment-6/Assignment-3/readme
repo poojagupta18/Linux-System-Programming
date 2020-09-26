@@ -1,0 +1,6 @@
+#Problem Statement:
+	Write a program which accepts Directory name from user and creates file in that directory.
+#Input:
+	Directory
+#Output:
+	creates file in accepted directory.	
