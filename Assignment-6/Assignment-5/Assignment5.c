@@ -3,7 +3,8 @@
 #include<stdio.h>
 #include<fcntl.h>
 #include<unistd.h>
-#include <stdlib.h>
+#include<stdlib.h>
+#include<string.h> 
 
 int main(int argc, char* argv[])
 {
@@ -19,14 +20,13 @@ int main(int argc, char* argv[])
 
     printf("%s\n", argv[1]);
 
-    fd = open(argv[1],  O_TRUNC | O_RDWR );
-
+    fd = open(argv[1], O_RDWR );
     if(fd == -1)
     {
         printf("Unable to open file...\n");
     }
 
-    truncate(argv[1], offset);
+    ftruncate(fd, offset);
 
 
     return 0;
