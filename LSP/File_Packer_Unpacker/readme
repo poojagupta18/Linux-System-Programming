@@ -1,0 +1,15 @@
+#Problem Statement:
+	PackerApplication:
+ 		Application to combine all the files from the directory into one file.
+	Input:	Directory containing files,  File which combines data of all file of the directory i.e packerFileName
+	Output: Creates packerFileName combining the data of all files
+		
+
+	Unpacker Application:
+		Application which reads the data from packer file and creates separate file as per data.
+	Input:  PackerFile name
+	Output: Creates file with data
+
+	
+
+	
