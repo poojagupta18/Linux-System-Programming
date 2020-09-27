@@ -1,0 +1,6 @@
+Emp no: 1
+name: aaa
+mobile no: 88888
+2
+bbbb
+0009999
