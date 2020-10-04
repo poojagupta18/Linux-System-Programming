@@ -1,0 +1,26 @@
+#include <stdio.h>
+#include <stdlib.h>
+#include <unistd.h>
+#include <fcntl.h>
+
+//fork creates new process with same stack, data, text section
+int main(int argc, char* argv[])
+{
+
+    int fd = 0;
+
+    fd = open("Hello.txt", O_WRONLY);  //2 UFDT for child and parent, are pointing to same File table entry, so count is 2 and offset is shared between this two processes, so only one entry is looking from File table to Incore Inode table, So on same file operation get performed in this case.
+
+    if(fork() == 0)
+    {
+        write(fd, "Child", 5);
+    }
+    else
+    {
+        write(fd, "Parent", 6);
+    }
+
+
+    exit(0);
+}
+
