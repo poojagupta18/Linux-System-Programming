@@ -24,7 +24,7 @@ int main(int argc, char* argv[])
         {
             execl("./demoexe","50","1", "C", NULL);
         } else {
-           // printf("Parent process  A is running with PID: %d\n", getpid());
+
         }
     }
     exit(0);
