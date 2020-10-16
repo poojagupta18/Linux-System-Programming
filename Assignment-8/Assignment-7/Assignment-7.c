@@ -9,8 +9,6 @@ int main(int argc, char* argv[], char *env[])
 {
     struct passwd *pw = getpwuid(getuid());
 
-    const char *homedir = pw->pw_dir;
-
     printf("Home dir name is %s\n",pw->pw_dir);
     printf("Login user name is %d\n", getuid());
 
