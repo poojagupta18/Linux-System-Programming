@@ -1,0 +1,4 @@
+Capital letter count of file hello.txt is 15
+Capital letter count of file demo.txt is 10
+Capital letter count of file demo.txt is 10
+Capital letter count of file hello.txt is 15
